@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Analytics, Western Governors, 2025 (expected)
+* B.S. in Sociology, Brigham Young University - Idaho, 2020
+* Graduate Studies in Sociology, North Dakota State University, 2023 (non-degree)
+* Studies in Ancient and Modern Near East, Brigham Young University Center for Near Eastern Studies, 2018 (non-degree)
 
 Work experience
 ======
@@ -34,19 +35,27 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical
+  * R & RStudio
+  * Tableau
+  * SPSS
+  * Python
+  * Microsoft Office Suite
+  * Google Suite
+* Research
+  * Quantitative Analysis
+  * Data Wrangling
+  * Data Visualization
+  * Predictive Modeling
+  * Qualitative Analysis
+  * Interviewing
+  * Surveying
+  * Focus Groups
+* Other
+  * Knowledgebase Management
+  * Customer Service
+  * Technical Writing
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
